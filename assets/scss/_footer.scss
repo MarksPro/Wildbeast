@@ -1,0 +1,10 @@
+.footer {
+    grid-area: footer;
+    background: linear-gradient(135deg, $primary_color, $secondary_color);
+
+    p{
+        text-align: center;
+        color: white;
+        padding: 30px;
+    }
+}
